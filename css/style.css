@@ -10,7 +10,7 @@
   text-align: center;
   background-color: #555;
   color: #FFF;
-  font-family: dosis;
+  font-family: arial;
   font-size: 30px;
   padding-top: 30px;
    /* display: none;*/
@@ -23,7 +23,7 @@
   text-align: center;
   background-color: #555;
   color: #FFF;
-  font-family: dosis;
+  font-family: arial;
   font-size: 30px;
   padding-top: 30px;
    /* display: none;*/
@@ -31,7 +31,7 @@
 }
 
 p{
-	font-family: dosis;
+	font-family: arial;
 	font-size: 20px;
 	margin-left: 10px;
 	width:240px;
